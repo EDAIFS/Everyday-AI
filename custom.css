@@ -1,0 +1,33 @@
+/* Font imports (if self-hosted or using Google Fonts, adjust as needed) */
+@import url('https://fonts.googleapis.com/css2?family=Carlito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Carlito', sans-serif;
+  font-size: 24px;
+  background-color: #f8f2ed;
+  color: #4b3b31;
+  line-height: 1.6;
+  padding-bottom: 60px;
+}
+
+h1, h2, h3 {
+  font-family: 'Lexend Deca', sans-serif;
+  color: #4b3b31;
+}
+
+h1 {
+  font-size: 45px;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 30px;
+  margin-top:
