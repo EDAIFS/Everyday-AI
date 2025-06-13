@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Services & Resources | Everyday AI for Seniors</title>
+  <link rel="stylesheet" href="custom.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo"><img src="logo.png" alt="Everyday AI for Seniors" /></div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="programs.html">Services & Resources</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="programs">
+      <h1>Our Services & Resources</h1>
+
+      <div class="program">
+        <h2>Intro to AI for Seniors</h2>
+        <p>Our hands-on intro session breaks down what is AI, how it works, and how it brings a whole new level of support with everyday needs and tasks.</p>
+      </div>
+
+      <div class="program">
+        <h2>Topic-Based Workshops</h2>
+        <p>We host workshops on staying safe online, everyday budgeting, managing medications and health issues, maintaining and making new social connections, and so much more.</p>
+      </div>
+
+      <div class="program">
+        <h2>1:1 Coaching</h2>
+        <p>We offer private coaching—virtual or in-person—to help seniors and their caregivers/companions set up and use AI tools.</p>
+      </div>
+
+      <div class="program">
+        <h2>eGuide Series</h2>
+        <p>Easy to use and visually compelling eGuides direct seniors step-by-step on how AI can enhance their lives. Topics include – Your Health, Your Voice, and more.</p>
+      </div>
+
+      <div class="program">
+        <h2>Monthly Prompt Club</h2>
+        <p>Our monthly subscription club lets seniors pick themes — memory, health, or connection — and get AI prompts they can use right away to deepen understanding and spark joy.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Everyday AI for Seniors</p>
+  </footer>
+</body>
+</html>
